@@ -5,8 +5,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
-defaultAppearance = "light" # valid options: light or dark
+colorScheme = "autumn"
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableA11y = false
@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+# mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -25,7 +25,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "/img/ocean.jpg" # used as default for background images
+ defaultBackgroundImage = "/img/ocean.jpg" # used as default for background images
 # backgroundCanvas = false # render defaultBackgroundImage as a fixed backdrop on every page
 # defaultFeaturedImage = "img/ocean.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
@@ -34,9 +34,9 @@ hotlinkFeatureImage = false
 # thumbnailAspectRatio = "1.5"
 # imagePosition = "50% 50%"
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = false
+ highlightCurrentMenuArea = true
+ smartTOC = true
+ smartTOCHideUnfocusedChildren = true
 
 fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
 
@@ -67,14 +67,14 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, landing, custom
   # layoutSwitcher = false # opt-in interactive preview of the built-in layouts
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = true
-  showRecentItems = 10
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  #homepageImage = "img/background.jpg" # used in: hero, and card
+  showRecent = false
+  showRecentItems = 0
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
   cardView = false
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  cardViewScreenWidth = true
+  layoutBackgroundBlur = true # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
@@ -85,15 +85,15 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showDateUpdated = false
   showAuthor = true
   # showAuthorBottom = false
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   # layoutBackgroundBlurStyle = "fade" # valid options: fade, classic. Only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/cyb3rzee/Thecyb3rzeefiles/"
+   editURL = "https://github.com/cyb3rzee/Thecyb3rzeefiles/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -102,20 +102,20 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showReadingTime = true
   showReadingProgress = false
   showTableOfContents = true
-  # showRelatedContent = false
+  # showRelatedContent = true
   # relatedContentLimit = 3
-  showTaxonomies = true # Enable the display of taxonomies for the related article.
+  showTaxonomies = false # Enable the display of taxonomies for the related article.
   showCategories = true # These will show if showTaxonomies is true.
   showTags = true # These will show if showTaxonomies is true.
   showCategoriesInSecondaryColor = false # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
-  showAuthorsBadges = false
+  showAuthorsBadges = true
   showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = false
+  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
+  showZenMode = true
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
 
 [list]
-  showHero = false
+  showHero = true
   # featureImageHover = false # subtle zoom on card thumbnails on hover
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -123,13 +123,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  showCards = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  showCards = true
   orderByWeight = false
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
@@ -138,15 +138,15 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [taxonomy]
   showTermCount = true
-  showHero = false
+  showHero = true
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   # layoutBackgroundBlurStyle = "fade" # valid options: fade, classic. Only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
   cardView = false
 
 [term]
@@ -156,11 +156,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # layoutBackgroundBlurStyle = "fade" # valid options: fade, classic. Only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = true
   groupByYear = false
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
 
 [firebase]

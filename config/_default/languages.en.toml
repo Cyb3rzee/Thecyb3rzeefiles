@@ -2,28 +2,29 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "cyb3rzee"
+title = "cyb3rzee's Blog"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+#  logo = "img/author2.png"
+#  secondaryLogo = "img/secondary-logo.png"
+#  description = "My awesome website"
+  copyright = "© 2026 cyb3rzee"
 
-# [params.author]
-#   name = "Regina Usman"
-#   email = "cyb3rzee666@gmail.com"
-#   image = "img/female-hacker-hacking-security-firewall-late-in-office-2ADARAG.jpg"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "Just a girl doing what she loves"
-#   links = [
-#     { email = "mailto:cyb3rzee666@gmail.com" },
-#     { github = "https://github.com/Cyb3rzee" },
-#     { linkedin = "https://www.linkedin.com/in/regina-usman-8293a9287" },
-#     { medium = "https://medium.com/@cyb3rzee" },
-#     { x-twitter = "https://twitter.com/cyberzee_" },
+[params.author]
+name = "Regina Usman"
+email = "cyb3rzee666@gmail.com"
+image = "img/female-hacker-hacking-security-firewall-late-in-office-2ADARAG.jpg"
+imageQuality = 96
+headline = "Just a girl doing what she loves"
+bio = "Documenting my journey. Follow me"
+links = [
+{ email = "mailto:cyb3rzee666@gmail.com" },
+{ github = "https://github.com/Cyb3rzee" },
+{ linkedin = "https://www.linkedin.com/in/regina-usman-8293a9287" },
+{ medium = "https://medium.com/@cyb3rzee" },
+{ x-twitter = "https://twitter.com/cyberzee_" },
+]
