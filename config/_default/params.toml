@@ -164,13 +164,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+   apiKey = "AIzaSyBMdO4AGNiX0a11uugQ3kwEJ-I1fJ5wvsQ"
+   authDomain = "cyb3rzee-files.firebaseapp.com"
+   projectId = "cyb3rzee-files"
+   storageBucket = "cyb3rzee-files.firebasestorage.app"
+   messagingSenderId = "901511279215"
+   appId = "1:901511279215:web:707a242060b4c0f02fd39a"
+   measurementId = "G-JW6XLZCR25"
 
 [fathomAnalytics]
   # site = "ABC12345"
