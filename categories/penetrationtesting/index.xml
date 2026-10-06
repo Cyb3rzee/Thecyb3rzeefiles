@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PenetrationTesting on cyb3rzee&#39;s Blog</title>
-    <link>//localhost:1313/categories/penetrationtesting/</link>
+    <link>http://localhost:1313/Thecyb3rzeefiles/categories/penetrationtesting/</link>
     <description>Recent content in PenetrationTesting on cyb3rzee&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cyb3rzee666@gmail.com (Regina Usman)</managingEditor>
     <webMaster>cyb3rzee666@gmail.com (Regina Usman)</webMaster>
     <copyright>© 2026 cyb3rzee</copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="//localhost:1313/categories/penetrationtesting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/Thecyb3rzeefiles/categories/penetrationtesting/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

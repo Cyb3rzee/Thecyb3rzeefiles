@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on cyb3rzee&#39;s Blog</title>
-    <link>//localhost:1313/categories/</link>
+    <link>http://localhost:1313/Thecyb3rzeefiles/categories/</link>
     <description>Recent content in Categories on cyb3rzee&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cyb3rzee666@gmail.com (Regina Usman)</managingEditor>
     <webMaster>cyb3rzee666@gmail.com (Regina Usman)</webMaster>
     <copyright>© 2026 cyb3rzee</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 10:32:48 +0100</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Oct 2026 10:32:48 +0100</lastBuildDate><atom:link href="http://localhost:1313/Thecyb3rzeefiles/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PenetrationTesting</title>
-      <link>//localhost:1313/categories/penetrationtesting/</link>
+      <link>http://localhost:1313/Thecyb3rzeefiles/categories/penetrationtesting/</link>
       <pubDate>Sat, 03 Oct 2026 10:32:48 +0100</pubDate>
       <author>cyb3rzee666@gmail.com (Regina Usman)</author>
-      <guid>//localhost:1313/categories/penetrationtesting/</guid>
+      <guid>http://localhost:1313/Thecyb3rzeefiles/categories/penetrationtesting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AISecurity</title>
-      <link>//localhost:1313/categories/aisecurity/</link>
+      <link>http://localhost:1313/Thecyb3rzeefiles/categories/aisecurity/</link>
       <pubDate>Sat, 03 Oct 2026 10:31:28 +0100</pubDate>
       <author>cyb3rzee666@gmail.com (Regina Usman)</author>
-      <guid>//localhost:1313/categories/aisecurity/</guid>
+      <guid>http://localhost:1313/Thecyb3rzeefiles/categories/aisecurity/</guid>
       <description></description>
       
     </item>

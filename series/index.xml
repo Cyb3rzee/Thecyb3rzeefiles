@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on cyb3rzee&#39;s Blog</title>
-    <link>/series/</link>
+    <link>https://cyb3rzee.github.io/Thecyb3rzeefiles/series/</link>
     <description>Recent content in Series on cyb3rzee&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>cyb3rzee666@gmail.com (Regina Usman)</managingEditor>
     <webMaster>cyb3rzee666@gmail.com (Regina Usman)</webMaster>
     <copyright>© 2026 cyb3rzee</copyright>
-    <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cyb3rzee.github.io/Thecyb3rzeefiles/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
