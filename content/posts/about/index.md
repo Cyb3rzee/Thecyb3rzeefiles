@@ -1,5 +1,5 @@
 ---
-title: "Content Placeholder"
+title: Content Placeholder
 draft: false
 build:
   render: never
