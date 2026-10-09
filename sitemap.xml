@@ -3,31 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/Thecyb3rzeefiles/posts/</loc>
+    <loc>https://cyb3rzee.github.io/Thecyb3rzeefiles/posts/</loc>
     <lastmod>2026-10-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Thecyb3rzeefiles/posts/aisecurity/why-i-am-shifting-my-focus-to-ai-security/</loc>
+    <loc>https://cyb3rzee.github.io/Thecyb3rzeefiles/posts/aisecurity/why-i-am-shifting-my-focus-to-ai-security/</loc>
     <lastmod>2026-10-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Thecyb3rzeefiles/posts/penetrationtesting/</loc>
-    <lastmod>2026-10-03T10:32:48+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/Thecyb3rzeefiles/about/</loc>
+    <loc>https://cyb3rzee.github.io/Thecyb3rzeefiles/about/</loc>
     <lastmod>2026-10-03T10:29:31+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Thecyb3rzeefiles/</loc>
+    <loc>https://cyb3rzee.github.io/Thecyb3rzeefiles/</loc>
     <lastmod>2026-10-03T10:28:49+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
