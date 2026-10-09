@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/categories/AISecurity/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "_index"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/categories/AISecurity/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about.md",
+                "file": "content/categories/AISecurity/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about.md",
+                "file": "content/categories/AISecurity/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,8 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2f6fa15d2bc7f13",
+  "active": "da9d9e2d9bc47082",
   "lastOpenFiles": [
+    "content/categories/AISecurity/Untitled",
+    "content/about.md",
     "content/posts/about/index.md",
     "content/posts/about/Untitled.md",
     "content/posts/Untitled"
