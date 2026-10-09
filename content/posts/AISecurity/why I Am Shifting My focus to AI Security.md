@@ -28,3 +28,12 @@ People ask about governance and policy, but I do not think the policy side is fo
 That is actually the reason I built this blog. I wanted a space where I can document what I am learning, share my transition, and figure things out in public. 
 
 This is just day one of the shift, and I am excited to see where it takes me.
+
+
+
+---
+
+### Stay Updated
+If you want to follow my transition into AI security, join my newsletter:
+
+{{< substack >}}
