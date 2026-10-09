@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/categories/AISecurity/_index.md",
+                "file": "content/categories/AISecurity/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/categories/AISecurity/_index.md",
+                "file": "content/categories/AISecurity/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/categories/AISecurity/_index.md",
+                "file": "content/categories/AISecurity/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/categories/AISecurity/_index.md",
+                "file": "content/categories/AISecurity/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,11 +189,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da9d9e2d9bc47082",
+  "active": "e2f6fa15d2bc7f13",
   "lastOpenFiles": [
-    "content/categories/AISecurity/Untitled",
+    "content/categories/PenetrationTesting/_index.md",
+    "content/categories/AISecurity/index.md",
+    "content/_index.md",
+    "content/categories/_index.md",
     "content/about.md",
+    "content/posts/about/featured.svg",
     "content/posts/about/index.md",
+    "content/categories/AISecurity/_index.md",
+    "content/categories/AISecurity/Untitled",
     "content/posts/about/Untitled.md",
     "content/posts/Untitled"
   ]
