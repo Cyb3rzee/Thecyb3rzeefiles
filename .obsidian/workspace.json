@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:LearningJourney",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ae3a11ee4bfbe40",
+  "active": "a342a28470808fa4",
   "lastOpenFiles": [
     "content/posts/AISecurityNotes/why I Am Shifting My focus to AI Security.md",
     "content/posts/AISecurityNotes/What I Learned from Unit 1 of AI Risk Fundamentals.md",

@@ -66,3 +66,13 @@ Sometimes, hearing how someone else understands an idea makes you look at it dif
 Completing this first unit has given me more to think about as I continue learning about AI safety and security.
 
 I'm looking forward to the next unit, especially the opportunity to understand these risks better and discuss them with other people.
+
+
+
+
+
+---
+### Stay Updated
+If you want to follow my transition into AI security, join my newsletter:
+
+{{< substack >}}
