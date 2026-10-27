@@ -1,3 +1,20 @@
+---
+title: What I Learned from Unit 1 of AI Risk Fundamentals
+date: 2026-10-27
+draft: false
+description: Key insights, concepts, and personal takeaways from completing Unit 1 of the AI Risk Fundamentals course at Lens Academy.
+tags:
+  - Cybersecurity
+  - AIrisk
+  - AIsafety
+  - LearningJourney
+  - AI
+  - superintellingence
+categories:
+  - AI Security
+  - Notes
+showTableOfContents: true
+---
 About two weeks ago, I started AI Risk Fundamentals at Lens Academy. I've now completed Unit 1, and some of the ideas have got me thinking more about how AI works and the risks that could come with it.
 
 The course is based on the book _If Anyone Builds It, Everyone Dies why superhuman ai would kill us all_. Here are four ideas that stood out to me.
